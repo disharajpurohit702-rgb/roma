@@ -4,7 +4,7 @@ This repository contains my programming practice and experiments.
 
 ## Languages
 - Python
-- C++
+- Matplotlib and numpy
 - LaTeX
 
 ## Focus
